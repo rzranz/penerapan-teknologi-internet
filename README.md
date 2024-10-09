@@ -1,14 +1,22 @@
 # penerapan-teknologi-internet
 
 ## Deskripsi Project
-Planning ke Yogyakarta  
+### Planning ke Yogyakarta  
+### - rincian perjalanan
+### - rincian transport
+### - rincian budget
+
+
 
 ## Anggota Tim
-Randi Zakaria Putra - 10122117
-Vicky Firmansyah - 10122121
-Muhamad Mufa Syihabudin - 10122128
-Bilal Jamil Shafwan - 10122147
+### Randi Zakaria Putra - 10122117
+### Vicky Firmansyah - 10122121
+### Muhamad Mufa Syihabudin - 10122128
+### Bilal Jamil Shafwan - 10122147
 
 ## Planning
-Tim akan berangkat menggunakan kereta api dari bandung di Stasiun Kiaracondong, disana tim akan melakukan kunjungan industri ke beberapa perusahaan menggunakan mobil yang sudah di book, lalu tim juga akan melakukan studi banding ke beberapa kampus, setelah selesai tim akan menginap di hotel Grand Malioboro, tim akan melakukan trip ke beberapa wisata yang pertama ke Gunung Kidul lalu setelah siang akan turun ke pantai parang tritis, menjelang malam akan pulang ke hotel
-keesokan paginya bersiap untuk checkout hotel dan pulang ke bandung.
+
+### Randi = Project Management
+### Bilal = Rencana Perjalanan (itenary.md) 
+### Vicky = transport dan logistic (transport_logistic.md)
+### Mufa  = Budget terperinci (budget.md)
